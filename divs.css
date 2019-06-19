@@ -20,6 +20,13 @@ body {
 	margin-bottom: 0px;
 	background-color: #787878;
 }
+p {
+	color:#ff0000;
+	font-weight:bold;
+	text-align:center;
+	border: 1px solid #ff0000;
+
+}
 h1 {
      font-size: 10px;
      background: #787878;
